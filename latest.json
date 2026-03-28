@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.96.15",
+    "version":  "0.1.96.57",
     "mandatory":  false,
-    "packageUrl":  "https://raw.githubusercontent.com/bederjeno/proxo-update/main/0.1.96.15/Proxo-0.1.96.15.zip",
-    "installerUrl":  "https://raw.githubusercontent.com/bederjeno/proxo-update/main/0.1.96.15/Proxo.Setup.exe",
-    "publishedAtUtc":  "2026-03-28T15:16:39Z"
+    "packageUrl":  "https://raw.githubusercontent.com/bederjeno/proxo-update/main/0.1.96.57/Proxo-0.1.96.57.zip",
+    "installerUrl":  "https://raw.githubusercontent.com/bederjeno/proxo-update/main/0.1.96.57/Proxo.Setup.exe",
+    "publishedAtUtc":  "2026-03-28T19:14:00Z"
 }
